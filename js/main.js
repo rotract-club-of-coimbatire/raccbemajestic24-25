@@ -16,23 +16,23 @@ $(document).ready(function($) {
     scrollProperty: 'scroll'
   });
 
-  window.addEventListener('load', function() {
-	console.log("ALL LOADED COMPLTED");
-	if($('#ftco-loader').length > 0) {
-		$('#ftco-loader').removeClass('show');
-	}
-});
+//   window.addEventListener('load', function() {
+// 	console.log("ALL LOADED COMPLTED");
+// 	if($('#ftco-loader').length > 0) {
+// 		$('#ftco-loader').removeClass('show');
+// 	}
+// });
 
 
-	// loader
-	// var loader = function() {
-	// 	setTimeout(function() { 
-	// 		if($('#ftco-loader').length > 0) {
-	// 			$('#ftco-loader').removeClass('show');
-	// 		}
-	// 	}, 1000);
-	// };
-	// loader();
+	loader
+	var loader = function() {
+		setTimeout(function() { 
+			if($('#ftco-loader').length > 0) {
+				$('#ftco-loader').removeClass('show');
+			}
+		}, 1000);
+	};
+	loader();
 
 	var carousel = function() {
 		$('.carousel').owlCarousel({
