@@ -87,7 +87,7 @@ $(document).ready(function($) {
 			nav: true,
 			items: 1,
 			autoplay: true,
-			autoplayTimeout:2000,
+			autoplayTimeout:4000,
 			dots: false,
 			stagePadding: 0,
 			nav: true,
@@ -246,7 +246,7 @@ $(document).ready(function($) {
 		 	e.preventDefault();
 
 		 	var hash = this.hash,
-		 			navToggler = $('.navbar-toggler');
+		 	navToggler = $('.navbar-toggler');
 		 	$('html, body').animate({
 		    scrollTop: $(hash).offset().top
 		  }, 700, 'easeInOutExpo', function(){
