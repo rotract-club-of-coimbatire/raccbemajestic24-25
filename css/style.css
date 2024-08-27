@@ -851,13 +851,14 @@ textarea.form-control {
 
 .footer {
   background: #404040;
-  padding: 8em 0;
+  padding: 10px 0;
   color: #fff;
+  text-align: center;
 }
 .footer .heading-section {
   font-size: 20px;
   text-transform: uppercase;
-  margin-bottom: 40px;
+  /* margin-bottom: 40px; */
   letter-spacing: 0.1em;
   color: #fff !important;
   font-family: "Overpass", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
@@ -978,7 +979,7 @@ textarea.form-control {
 .ftco-section-2 .section-2-blocks-wrapper .text {
   position: relative;
   z-index: -1;
-  padding: 15px;
+  /* padding: 15px; */
 }
 @media (min-width: 768px) {
   .ftco-section-2 .section-2-blocks-wrapper .text {
@@ -996,7 +997,7 @@ textarea.form-control {
 @media (max-width: 991.98px) {
   .ftco-section-2 .section-2-blocks-wrapper .img {
     height: 400px;
-    margin-bottom: 70px;
+    /* margin-bottom: 70px; */
   }
 }
 
