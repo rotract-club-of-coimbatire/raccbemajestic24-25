@@ -716,6 +716,9 @@ textarea.form-control {
 .featured-section.overlay-color-2:before {
   background: #f7ca44;
 }
+.featured-section.overlay-color-blood:before {
+  background: rgb(199, 15, 15);
+}
 
 .form-volunteer h2 {
   font-size: 25px;
