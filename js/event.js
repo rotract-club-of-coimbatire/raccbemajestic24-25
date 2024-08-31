@@ -2,7 +2,7 @@ $(document).ready(function () {
   // Array of card data
   const cardData = [
     {
-      imgSrc: "images/img_1.jpg",
+      imgSrc: "images/logo/thisyear.png",
       title: "MEDFEST",
       date: "01-07-2024",
       avenue:"Community Service",
@@ -10,7 +10,7 @@ $(document).ready(function () {
       text: "MedFest, organized by the Rotaract Clubs of Coimbatore Majestic, Unique, and Western Valley, celebrates National Doctors Day at Bala Hospital, Ramanathapuram. This special event honors medical professionals with flowers, personalized greeting cards, and thoughtful mementos, expressing our gratitude for their unwavering dedication and selfless service to the community. Join us in acknowledging their invaluable contributions.",
       progress: "28%",
     },{
-      imgSrc: "images/img_1.jpg",
+      imgSrc: "images/logo/thisyear.png",
       title: "Pitchy Party",
       date: "06-07-2024	",
       avenue:"Club Service",
@@ -18,7 +18,7 @@ $(document).ready(function () {
       text: "Pitchy Party is a special event designed to strengthen bonds among our board members through an evening of camaraderie, collaboration, and creativity. Join us as we celebrate our shared passion for service and community impact, aiming to reinforce our foundation and enhance our collective efforts to make a meaningful difference.",
       progress: "50%",
     },{
-      imgSrc: "images/img_1.jpg",
+      imgSrc: "images/logo/thisyear.png",
       title: "இயல்வது கரவேல்",
       date: "03-08-2024",
       avenue:"Community Service",
@@ -26,7 +26,7 @@ $(document).ready(function () {
       text: "The Rotaract Club of Coimbatore Majestic, alongside RaC SRCAS, PSG CAS, Karpagam Engineering, KAHE, Coimbatore Cosmopolitan, Coimbatore Main, Coimbatore Cosmos, and RS Puram, Happy Valley, has launched 'இயல்வது கரவேல்' to aid Wayanad flood victims. This initiative aims to provide essential supplies, including non-perishable food, hygiene products, and medicine, to those in need. By collaborating, we seek to deliver effective and timely support to the affected communities.",
       progress: "28%",
     },{
-      imgSrc: "images/img_1.jpg",
+      imgSrc: "images/logo/thisyear.png",
       title: "Smash Fest",
       date: "18-08-2024",
       avenue:"Club Service",
@@ -34,7 +34,7 @@ $(document).ready(function () {
       text: "The Rotaract Club of Coimbatore is excited to present Smash Fest, a highly anticipated badminton event. We invite everyone to join us for an evening of fun-filled activities, where playing with friends turns each game into a celebration and every win into shared joy. Your participation will make the event memorable as we come together to enjoy sportsmanship and camaraderie. We look forward to seeing you there!",
       progress: "28%",
     },{
-      imgSrc: "images/img_1.jpg",
+      imgSrc: "images/logo/thisyear.png",
       title: "Health Haven",
       date: "24-08-2024",
       avenue:"District Priority Projects",
@@ -42,7 +42,7 @@ $(document).ready(function () {
       text: "The Rotaract Club of Coimbatore Majestic is thrilled to announce “Health Haven,” a health camp dedicated to the residents of The Coimbatore District Welfare Association Senior Citizens Home. Join us in extending support and care to our senior community members, focusing on their well-being and providing essential medical assistance. Together, let’s make a meaningful difference in their lives and contribute to their health and happiness. Your participation will be invaluable.",
       progress: "28%",
     },{
-      imgSrc: "images/img_1.jpg",
+      imgSrc: "images/logo/thisyear.png",
       title: "Trio Treat",
       date: "25-08-2024",
       avenue:"Club Service",
@@ -50,7 +50,7 @@ $(document).ready(function () {
       text: "The Rotaract Club of Coimbatore Majestic, in collaboration with the Rotaract Clubs of Coimbatore Unique and Western Valley, is excited to announce Trio Treat. This event will bring together our club members for a delightful meal and engaging informal meet-and-greet interactions. Join us on August 25th for an enjoyable evening of camaraderie and connection. Your presence will make this gathering memorable and fun. We look forward to seeing you there!",
       progress: "88%",
     },{
-      imgSrc: "images/img_1.jpg",
+      imgSrc: "images/logo/thisyear.png",
       title: "Turf' N Tea",
       date: "25-08-2024",
       avenue:"Club Service",
@@ -58,7 +58,7 @@ $(document).ready(function () {
       text: "The Rotaract Club of Coimbatore Majestic, in collaboration with the Rotaract Clubs of Coimbatore Main and Nehru Aeronautics, is excited to present Turf 'N Tea. Join us for this special event that blends leisure with camaraderie. Enjoy social gatherings, recreational activities, and opportunities to relax and connect. It’s a chance to unwind and build connections in a fun and relaxed setting. We look forward to seeing you there!",
       progress: "58%",
     },{
-      imgSrc: "images/img_1.jpg",
+      imgSrc: "images/logo/thisyear.png",
       title: "SIMBA",
       date: "01-09-2024",
       avenue:"Club Service",
@@ -66,7 +66,7 @@ $(document).ready(function () {
       text: "The Rotaract Club of Coimbatore Majestic is thrilled to announce the 'SIMBA' orientation program for our esteemed club members. This program aims to reinforce fundamental concepts while exploring new avenues for growth and learning. Your expertise and insights will be invaluable in enriching our members' knowledge and fostering their development. We look forward to your participation in making this orientation a memorable and impactful experience.",
       progress: "68%",
     },{
-      imgSrc: "images/img_1.jpg",
+      imgSrc: "images/logo/thisyear.png",
       title: "REE-NEW",
       date: "01-09-2024",
       avenue:"Club Service",
